@@ -29,4 +29,4 @@ This is a web application built using the MEAN stack (MongoDB, Express.js, Angul
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-![Uploading image.png…]()
+
